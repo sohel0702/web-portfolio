@@ -4,6 +4,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .name-highlight {
 color: orange;
 }
@@ -16,4 +19,16 @@ color: orange;
 .half-width img {
     width:100%;
 
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,   rgb(122, 255, 237), tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: light white;
+    font-weight: 800;
 }
